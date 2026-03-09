@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Nikita
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning stuff
